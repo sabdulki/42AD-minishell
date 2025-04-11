@@ -84,3 +84,4 @@ Standards: POSIX
 👨‍💻 Sofya Abdulkina — https://github.com/sabdulki
 
 Developed as part of 42 Abu Dhabi curriculum.
+
